@@ -13,28 +13,28 @@ All images and sound assets used in this project are the property of their respe
 ## Games
 
 ### ShellShock
-![Screenshot of the game](/HCC-python2.x/Examples/shellShock/shellShock.png)
+![Screenshot of the game](Examples/shellShock/shellShock.png)
 
 ### Sentry
-![Screenshot of the game](/HCC-python2.x/Examples/sentry/sentry.png)
+![Screenshot of the game](Examples/sentry/sentry.png)
 
 ### Spymaster
-![Screenshot of the game](/HCC-python2.x/Examples/spymaster/spymaster.png)
+![Screenshot of the game](Examples/spymaster/spymaster.png)
 
 ### Engie
-![Screenshot of the game](/HCC-python2.x/Examples/engie/engie.png)
+![Screenshot of the game](Examples/engie/engie.png)
 
 ### Outbreak
-![Screenshot of the game](/HCC-python2.x/Examples/Outbreak/Outbreak.png)
+![Screenshot of the game](Examples/Outbreak/Outbreak.png)
 
 ### PyBomb
-![Screenshot of the game](/HCC-python2.x/Examples/pybomb/pybomb.png)
+![Screenshot of the game](Examples/pybomb/pybomb.png)
 
 ### Screensaver
-![Screenshot of the game](/HCC-python2.x/Examples/screensaver/screensaver.png)
+![Screenshot of the game](Examples/screensaver/screensaver.png)
 
 ### Minion Master
-![Screenshot of the game](/HCC-python2.x/Examples/necromancer/necromancer.png)
+![Screenshot of the game](Examples/necromancer/necromancer.png)
 
 ### Gems
-![Screenshot of the game](/HCC-python2.x/Examples/gemstones/gemstones.png)
+![Screenshot of the game](Examples/gemstones/gemstones.png)
