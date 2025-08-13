@@ -25,13 +25,13 @@ All images and sound assets used in this project are the property of their respe
 ![Screenshot of the game](Examples/engie/engie.png)
 
 ### Outbreak
-![Screenshot of the game](Examples/Outbreak/Outbreak.png)
+![Screenshot of the game](Examples/outbreak/outbreak.png)
 
 ### PyBomb
 ![Screenshot of the game](Examples/pybomb/pybomb.png)
 
 ### Screensaver
-![Screenshot of the game](Examples/screensaver/screensaver.png)
+![Screenshot of the game](Examples/screenSaver/screenSaver.png)
 
 ### Minion Master
 ![Screenshot of the game](Examples/necromancer/necromancer.png)
